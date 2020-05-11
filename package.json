@@ -1,0 +1,27 @@
+{
+  "name": "npm-express",
+  "version": "0.1.0",
+  "description": "Mi primer server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelGzE/npm_express.git"
+  },
+  "keywords": [
+    "npm",
+    "express"
+  ],
+  "author": "González Espejel Miguel Angel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiguelGzE/npm_express/issues"
+  },
+  "homepage": "https://github.com/MiguelGzE/npm_express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
